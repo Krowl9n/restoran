@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restoran", "restoran\restoran.csproj", "{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Debug|x64.ActiveCfg = Debug|x64
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Debug|x64.Build.0 = Debug|x64
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Release|x64.ActiveCfg = Release|x64
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Release|x64.Build.0 = Release|x64
+		{EC67E433-6514-4F66-BAE0-8CB5B4EC0082}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45AE6722-95DD-4A91-94C0-D376EEB20FA4}
+	EndGlobalSection
+EndGlobal

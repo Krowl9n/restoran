@@ -1,0 +1,15 @@
+C:\Users\ivanf\source\repos\restoran\restoran\bin\x86\Debug\999.accdb
+C:\Users\ivanf\source\repos\restoran\restoran\bin\x86\Debug\res.mdb
+C:\Users\ivanf\source\repos\restoran\restoran\bin\x86\Debug\restik.mdb
+C:\Users\ivanf\source\repos\restoran\restoran\bin\x86\Debug\restoran.exe.config
+C:\Users\ivanf\source\repos\restoran\restoran\bin\x86\Debug\restoran.exe
+C:\Users\ivanf\source\repos\restoran\restoran\bin\x86\Debug\restoran.pdb
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.csproj.AssemblyReference.cache
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.Form1.resources
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.Form2.resources
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.Properties.Resources.resources
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.csproj.GenerateResource.cache
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.csproj.CoreCompileInputs.cache
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.exe
+C:\Users\ivanf\source\repos\restoran\restoran\obj\x86\Debug\restoran.pdb
